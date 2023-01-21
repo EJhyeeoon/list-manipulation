@@ -1,0 +1,3 @@
+color1=['yellow', 'purple', 'blue', 'black', 'white']
+color2=["orange", "pink"]
+color1+color2 #['yellow', 'purple', 'blue', 'black', 'white', 'orange', 'pink']
