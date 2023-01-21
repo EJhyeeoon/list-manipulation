@@ -1,0 +1,3 @@
+color1=["yellow", "purple", "blue"]
+color1.extend(["black", "white"])
+color1 #["yellow", "purple", "blue", "black", "white"]
